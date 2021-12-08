@@ -7,3 +7,4 @@
 * Day 5: Hydrothermal Venture - This one was pretty straightforward as well. Took me a second to figure out how to get the list of points for a diagonal line, but fortunately my part 1 didn't need to be modified at all -- it Just Worked once I got that added.
 * Day 6: Lanternfish - Part 1 was fairly easy. Then part 2 was taking forever. I waiting way too long on it before it occurred to me that there was a better way. Writing and running the better way took just a few minutes, once I thought to do it!
 * Day 7: The Treachery of Whales (best fit w/cost) - Something about the wording of this problem made me worried that it'd be a dynamic programming problem, but then it ended up being really straightforward! Nice break from the weekend.
+* Day 8: Seven Segment Search - GOODNESS GRACIOUS, this hurt my brain. I'm pleased to say that although it took me over an hour to figure out what to write, my code gave the correct answer the first time.
