@@ -8,3 +8,5 @@
 * Day 6: Lanternfish - Part 1 was fairly easy. Then part 2 was taking forever. I waiting way too long on it before it occurred to me that there was a better way. Writing and running the better way took just a few minutes, once I thought to do it!
 * Day 7: The Treachery of Whales (best fit w/cost) - Something about the wording of this problem made me worried that it'd be a dynamic programming problem, but then it ended up being really straightforward! Nice break from the weekend.
 * Day 8: Seven Segment Search - GOODNESS GRACIOUS, this hurt my brain. I'm pleased to say that although it took me over an hour to figure out what to write, my code gave the correct answer the first time.
+* Day 9: Smoke Basin - Part 1 was straightforward. Didn't do part 2 yet because I still never properly learned BFS and have to reinvent it from first principles every time and I'm too sleepy. I'll come back to it at some point.
+* Day 10: Syntax Scoring - Ah, good old stack-based brace matching. Relatively easy except for the weird scoring.
