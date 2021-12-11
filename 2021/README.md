@@ -10,3 +10,4 @@
 * Day 8: Seven Segment Search - GOODNESS GRACIOUS, this hurt my brain. I'm pleased to say that although it took me over an hour to figure out what to write, my code gave the correct answer the first time.
 * Day 9: Smoke Basin - Part 1 was straightforward. Didn't do part 2 yet because I still never properly learned BFS and have to reinvent it from first principles every time and I'm too sleepy. I'll come back to it at some point.
 * Day 10: Syntax Scoring - Ah, good old stack-based brace matching. Relatively easy except for the weird scoring.
+* Day 11: Dumbo Octopus - I probably over-engineered this trying to make sure they could only flash once. But the benefit was that part 2 was a trivial modification.
