@@ -57,7 +57,7 @@ def visualize(xs, ys):
 		print()
 
 
-for fold in puzzle[i:]:
+for fold in puzzle[fold_loc:]:
 	(dir_s, val) = fold.split('=')
 	if dir_s.endswith('x'):
 		xr = int(val)
