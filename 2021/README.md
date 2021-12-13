@@ -11,3 +11,5 @@
 * Day 9: Smoke Basin - Part 1 was straightforward. Didn't do part 2 yet because I still never properly learned BFS and have to reinvent it from first principles every time and I'm too sleepy. I'll come back to it at some point.
 * Day 10: Syntax Scoring - Ah, good old stack-based brace matching. Relatively easy except for the weird scoring.
 * Day 11: Dumbo Octopus - I probably over-engineered this trying to make sure they could only flash once. But the benefit was that part 2 was a trivial modification.
+* Day 12: Passage Pathing - Oof, graphs. These weren't taught when I was in school and I never bothered to learn them after since they don't come up in my line of work. Google to the rescue! I'm actually just proud that I eventually got this one working.
+* Day 13: Transparent Origami - Never been good at visualizing things in 2D, but fortunately I'm good at algebra so I was just able to keep them as an array of points for most of the program. Neat ending, though.
